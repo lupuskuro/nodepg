@@ -1,0 +1,24 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node prob1.js",
+    "test2": "node prob2.js",
+    "test3": "node prob3.js",
+    "test4": "node prob4.js",
+    "test5": "node prob5.js",
+    "test6": "node prob6.js",
+    "test7": "node prob7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
